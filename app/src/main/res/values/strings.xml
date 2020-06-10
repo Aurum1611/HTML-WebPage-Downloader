@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HTML WebPage Downloader</string>
+    <string name="url_hint">https://example.com/</string>
+    <string name="download_button">Download Button</string>
+    <string name="download_successful">Download Successful</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="downloading">Downloading…</string>
+    <string name="message_button">Message Button</string>
+    <string name="invalid_url_message">Please enter a valid url</string>
+    <string name="not_connected_to_internet">Not connected to network. Please recheck your connection.</string>
+    <string name="external_storage_permission_rationale">The app will not be able to function if this permission is denied making it unusable.</string>
+    <string name="permission_request">Read/Write External Storage are crucial permissions for the app\'s functionality. Please enable it in your settings to be able to use this app.</string>
+    <string name="show_settings">Show Settings</string>
+    <string name="file_downloaded_successfully">File Downloaded Successfully</string>
+    <string name="view">view</string>
+    <string name="malformed_url">URL is Malformed. Please recheck.</string>
+    <string name="message_button_clicked">Message Button Clicked</string>
+    <string name="open_using">Open using…</string>
+</resources>
